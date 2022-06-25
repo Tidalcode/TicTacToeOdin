@@ -1,7 +1,7 @@
 function computer() {
         var randomlist = [
-        "Rock"
-        "Paper"
+        "Rock",
+        "Paper",
         "Scissors"
     ];
 
