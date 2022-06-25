@@ -6,11 +6,15 @@ let rpsArray = [
  
 //var randomItem = rpsArray[Math.floor(Math.random() * rpsArray.length)];
 
-function computer(){
+function computerSelection(){
     let choice = rpsArray [Math.floor(Math.random() * rpsArray.length)];
-    let computer = choice;
+    let computerSelection = choice;
+    console.log(computerSelection)
 }
 
-computer()
+
+
+
+
 
 
